@@ -5,17 +5,17 @@ import { Button } from './ui/Button';
 export const Testimonials = () => {
   const reviews = [
     {
-      text: "Sarah made the impossible possible. We had a complicated income situation, but she navigated it with ease. We are now in our dream home thanks to her!",
+      text: "Sergio made the impossible possible. We had a complicated income situation, but he navigated it with ease. We are now in our dream home thanks to him!",
       author: "Michael & Jessica T.",
       type: "First-Time Buyers"
     },
     {
-      text: "As a real estate investor, I need speed and reliability. Sarah delivers both every single time. Her knowledge of the market is unmatched.",
+      text: "As a real estate investor, I need speed and reliability. Sergio delivers both every single time. His knowledge of the market is unmatched.",
       author: "David R.",
       type: "Real Estate Investor"
     },
     {
-      text: "The communication was outstanding. I never had to guess where we were in the process. Highly recommend Sarah to anyone looking for a stress-free mortgage.",
+      text: "The communication was outstanding. I never had to guess where we were in the process. Highly recommend Sergio to anyone looking for a stress-free mortgage.",
       author: "Amanda L.",
       type: "Refinance Client"
     }
