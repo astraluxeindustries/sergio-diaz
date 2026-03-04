@@ -23,7 +23,7 @@ export const Hero = () => {
           </div>
           
           <h1 className="text-4xl lg:text-6xl font-serif font-bold text-white leading-tight mb-6">
-            Sarah Jenkins <br />
+            Sergio Diaz <br />
             <span className="text-slate-300 font-light italic text-3xl lg:text-5xl">Mortgage Loan Officer</span>
           </h1>
           
